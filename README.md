@@ -12,16 +12,13 @@ Iniciar minha carreira como programador, aplicando e expandindo meus conheciment
 
 ### 🎓 Formação Acadêmica  
 **Ensino Médio Completo**  
-Escola Nome da Escola — Concluído em [Ano]
 
-**Graduando em Engenharia de Computação**  
-[Nome da Faculdade] — Início em [Mês/Ano]
+ 
 
 ---
 
 ### 💻 Cursos e Certificações  
-**Curso de Programação com Python**  
-Plataforma: [Nome da Plataforma]  
+**Curso de Programação com Python**   
 Status: Em andamento  
 Conteúdo: lógica, estruturas de controle, funções, listas, dicionários, manipulação de arquivos, entre outros.
 
