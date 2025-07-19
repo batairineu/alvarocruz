@@ -21,7 +21,6 @@ Iniciar minha carreira como programador, aplicando e expandindo meus conheciment
 **Curso de Programação com Python**   
 Status: Em andamento  
 Conteúdo: lógica, estruturas de controle, funções, listas, dicionários, manipulação de arquivos, entre outros.
-https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
 ---
 
 ### 🧠 Habilidades Técnicas  
