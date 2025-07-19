@@ -27,7 +27,7 @@ Conteúdo: lógica, estruturas de controle, funções, listas, dicionários, man
 ### 🧠 Habilidades Técnicas  
 - **Linguagens:** Python, SQL (básico)  
 - **Ferramentas:** Git, GitHub, Qt Designer  
-- **Sistemas Operacionais:** Windows, Linux (básico)  
+- **Sistemas Operacionais:** Windows  
 - **Idiomas:** Inglês Intermediário
 
 ---
